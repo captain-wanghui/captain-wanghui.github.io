@@ -1,9 +1,9 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Captain的博客
+subtitle: Captain分享的一些技术文章和生活趣事
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  欢迎来到Captain的博客，在这里你可以找到Captain分享的一些技术文章和生活趣事。
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://captain-wanghui.github.io/" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -24,37 +24,37 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+author_logo: profile.jpg
+author: 王辉
+author_bio: 一名在校牛马大学生，喜欢分享一些技术文章和生活趣事。
+author_email: "wanghui245378691@qq.com"
+author_location: 中国-甘肃-兰州
+author_website_url: "https://captain-wanghui.github.io/"
+typewrite-text: 欢迎访问我的个人博客
+hero_cover_img: cover.png
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true
+            - company_name: XX科技公司
+              company_logo: company1.png
+              company_url: https://company1.com
+              designation: 高级开发工程师
+              description: 负责核心业务系统开发
+              visibility: false
+            - company_name: YY互联网公司
+              company_logo: company2.png
+              company_url: https://company2.com
+              designation: 开发工程师
+              description: 参与多个Web项目开发
+              visibility: false
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: university.jpg
+                college_name: 兰州理工大学
+                college_url: https://university.edu
+                college_degree: 电子信息科学与技术
+                description: 全日制本科
                 visibility: true
 
 # Projects
@@ -63,22 +63,22 @@ author_project_details:
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+                visibility: false
+              - project_thumbnail: blog-project.png
+                project_title: 个人博客
+                project_description: 基于Jekyll的个人博客网站，用于分享技术文章和生活趣事。
+                project_url: https://captain-wanghui.github.io/
                 visibility: true
 
 # social links
-twitter_username: xplor4r
-github_username:  sujaykundu777
-instagram_username: xplor4r
-# facebook_username: johndoe
+twitter_username: Captain2580
+github_username:  captain-wanghui
+#instagram_username: captain.2580
+#facebook_username: 
 # linkedin_username: johndoe
 # behance_username: johndoe
 # medium_username: johndoe
-# telegram_username: johndoe
+telegram_username: +86-18993320370
 # dribbble_username: johndoe
 # flickr_username: johndoe
 
@@ -95,10 +95,10 @@ mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50b
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+formspree_email: wanghui245378691@qq.com
 
 # releases - widget can be (sidebar, modal or embed)
-olvy_organization: devlopr
+olvy_organization: captain-blog
 olvy_widget_type: sidebar
 
 # syntax highlighter
@@ -107,13 +107,13 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
+show_author_work_experiences: false
 show_author_education_details: true
 show_author_project_details: true
 
 # pagination of posts
-paginate: 4
-per_page: 4
+paginate: 6
+per_page: 2
 paginate_path: "/blog/page/:num/"
 
 # minify
