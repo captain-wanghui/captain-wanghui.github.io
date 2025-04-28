@@ -8,12 +8,14 @@ title: 画廊
 这里展示我的摄影作品和生活瞬间。
 
 <div class="gallery-container">
-  <img src="/assets/images/00014-people.jpg" alt="人物摄影" class="gallery-img" />
-  <img src="/assets/images/00011-city.jpg" alt="城市风光" class="gallery-img" />
-  <img src="/assets/images/00019-art.jpg" alt="艺术作品" class="gallery-img" />
-  <img src="/assets/images/00013-macro.jpg" alt="微距摄影" class="gallery-img" />
-  <img src="/assets/images/00016-city.jpg" alt="城市风光" class="gallery-img" />
-  <img src="/assets/images/00015-nature.jpg" alt="自然风光" class="gallery-img" />
+  <img src="/assets/images/00011-nature.jpg" alt="自然风光" class="gallery-img" />
+  <img src="/assets/images/00012-nature.jpg" alt="自然风光" class="gallery-img" />
+  <img src="/assets/images/00013-animal.jpg" alt="动物" class="gallery-img" />
+  <img src="/assets/images/00014-music.jpg" alt="音乐" class="gallery-img" />
+  <img src="/assets/images/00016-food.jpg" alt="食物" class="gallery-img" />
+  <img src="/assets/images/00017-fashion.jpg" alt="时尚" class="gallery-img" />
+  <img src="/assets/images/00018-animal.jpg" alt="动物" class="gallery-img" />
+  <img src="/assets/images/00019-education.jpg" alt="教育" class="gallery-img" />
 </div>
 
 <style>

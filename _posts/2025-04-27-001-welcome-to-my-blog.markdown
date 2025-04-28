@@ -5,7 +5,7 @@ date: 2025-04-28 12:00:00 +0800
 categories: welcome humor
 ---
 
-![欢迎图片](/assets/images/00001-cat.jpg)
+![欢迎图片](/assets/images/00018-animal.jpg)
 *"这不是一只普通的猫，这是我们的博客吉祥物！"*
 
 # 欢迎来到我的数字小天地！
@@ -33,5 +33,5 @@ categories: welcome humor
 
 最后，再次欢迎你的到来！记得常来看看，不然我的吉祥物猫会伤心的 😿
 
-![再见猫咪](/assets/images/00001-cat.jpg)
+![再见猫咪](/assets/images/00014-music.jpg)
 *"下次见！"*
